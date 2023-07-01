@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ada24d5308f3b3a0e722475c6962760f",
+    "content-hash": "8fa903cd59819f253d6037ca63d129e7",
     "packages": [
         {
             "name": "composer/installers",
@@ -345,11 +345,11 @@
         },
         {
             "name": "rcotillo/advanced-custom-fields-pro",
-            "version": "6.1.6",
+            "version": "6.1.7",
             "dist": {
                 "type": "zip",
-                "url": "https://portafolio.cotillo.tech/satispress/advanced-custom-fields-pro/6.1.6",
-                "shasum": "24a506164fdbfe133f96fa2da3eb414a30d8d227"
+                "url": "https://portafolio.cotillo.tech/satispress/advanced-custom-fields-pro/6.1.7",
+                "shasum": "603f1d01d8c35847af5cb89b0c16b1673ccdb7b8"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1176,15 +1176,15 @@
         },
         {
             "name": "wpackagist-plugin/wpforms-lite",
-            "version": "1.8.2.1",
+            "version": "1.8.2.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wpforms-lite/",
-                "reference": "tags/1.8.2.1"
+                "reference": "tags/1.8.2.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wpforms-lite.1.8.2.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wpforms-lite.1.8.2.2.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
