@@ -57,7 +57,8 @@
         "rcotillo/gp-premium": "^2.3",
         "wpackagist-plugin/generateblocks": "^1.7",
         "rcotillo/advanced-custom-fields-pro": "^6.1.7",
-        "wpackagist-plugin/wpforms-lite": "1.8.2.2"
+        "wpackagist-plugin/wpforms-lite": "1.8.2.2",
+        "wpackagist-plugin/icon-block": "^1.5"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^3.7.1",
