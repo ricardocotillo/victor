@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "31cb01773f726fc83bacca3fcaabca58",
+    "content-hash": "217816a74d78d53c8dd32529dda37301",
     "packages": [
         {
             "name": "composer/installers",
@@ -1191,6 +1191,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/icon-block/"
+        },
+        {
+            "name": "wpackagist-plugin/shortcoder",
+            "version": "6.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/shortcoder/",
+                "reference": "tags/6.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/shortcoder.6.2.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/shortcoder/"
         },
         {
             "name": "wpackagist-plugin/wpforms-lite",
