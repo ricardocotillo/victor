@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "217816a74d78d53c8dd32529dda37301",
+    "content-hash": "09fdfcbe6b9710f0df1467298330daea",
     "packages": [
         {
             "name": "composer/installers",
@@ -1155,6 +1155,24 @@
                 }
             ],
             "time": "2022-10-16T01:01:54+00:00"
+        },
+        {
+            "name": "wpackagist-plugin/advanced-database-cleaner",
+            "version": "3.1.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/advanced-database-cleaner/",
+                "reference": "tags/3.1.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/advanced-database-cleaner.3.1.2.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/advanced-database-cleaner/"
         },
         {
             "name": "wpackagist-plugin/generateblocks",
